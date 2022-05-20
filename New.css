@@ -1,0 +1,64 @@
+h1 {
+    font-family: Cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    font-weight: 300; 
+    font-family: Helvetica;
+    text-align: center;
+}
+
+div {
+    background-color: white;
+    text-align: center;
+}
+
+.nav {
+    border: black solid 2px;
+    width: 40%;
+    margin: 0 auto;
+    padding: 1rem;
+
+}
+
+img {
+    border-radius: 20%;
+    margin: 0 auto;
+}
+
+h4 {
+    text-align: center; 
+    font-family: Helvetica;   
+}
+
+h6 {
+    color: black;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: medium;
+}
+
+
+body {
+    color: red;
+}
+
+ul {
+    color: black;
+    display: table; 
+    margin: 0 auto;  
+    font-family: Helvetica;  
+}
+
+table {
+   border-style: groove;
+   background-color: pink ;
+   border-width: 5px;
+   display: table; 
+   margin: 0 auto;
+}
+
+
+
